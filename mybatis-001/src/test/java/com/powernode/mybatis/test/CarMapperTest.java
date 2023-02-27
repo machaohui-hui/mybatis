@@ -9,6 +9,8 @@ import org.junit.Test;
 
 public class CarMapperTest {
 22
+333
+    444
     @Test
     public void testInsertCarByUtil(){
         SqlSession sqlSession = null;
