@@ -8,7 +8,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.junit.Test;
 
 public class CarMapperTest {
-
+11111
     @Test
     public void testInsertCarByUtil(){
         SqlSession sqlSession = null;
